@@ -19,7 +19,7 @@
 
 ## 🌟 About Me
 
-I am a final-year Computer Science student at **China Jiliang University** (GPA: 86.3%), passionate about intelligent systems, real-world AI applications, and building complete production-ready software.
+I am a final-year Computer Science student at **China Jiliang University**, passionate about intelligent systems, real-world AI applications, and building complete production-ready software.
 
 My academic path began in Life Sciences before I transitioned fully into Computer Science. That shift strengthened my analytical thinking and pushed me toward solving complex technical problems using data, algorithms, and automation.
 
