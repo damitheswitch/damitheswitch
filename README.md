@@ -91,16 +91,14 @@ Raspberry Pi assistant capable of mood detection through computer vision.
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=damitheswitch&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damitheswitch&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=damitheswitch&show_icons=true&theme=github_dark&hide_border=true)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=damitheswitch&theme=github-dark&hide_border=true" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=damitheswitch&layout=compact&theme=github_dark&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=damitheswitch&theme=github-dark&hide_border=true)
+
 ---
 
-> "I enjoy building practical AI systems that solve real problems."
+> *"I enjoy building practical AI systems that solve real problems."*
