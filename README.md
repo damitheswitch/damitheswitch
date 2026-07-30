@@ -1,156 +1,279 @@
 <h1 align="center">Hi, I'm Imad Charradi 👋</h1>
 
 <p align="center">
-  🤖 <b>AI Agent Engineer</b> & Final-Year Computer Science Student<br>
-  🚀 Building autonomous e-commerce workflows & Computer Vision systems<br>
-  📍 Based in Hangzhou, China | 🇲🇦 From Morocco
+  <b>AI Software Engineer</b><br>
+  Building AI Agents, Computer Vision Systems, and Production Backend Software
+</p>
+
+<p align="center">
+  🇲🇦 Morocco • M.Sc. AI Student • Open to AI Software Engineering Opportunities
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/imad-charradi/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="mailto:charradiimad7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
   </a>
 </p>
 
 ---
 
-## 🌟 About Me
+# About Me
 
-I am a final-year Computer Science student at **China Jiliang University**, passionate about intelligent systems, real-world AI applications, and building complete production-ready software.
+I'm an AI Software Engineer with experience building production AI systems, backend architectures, and computer vision applications.
 
-My academic path began in Life Sciences before I transitioned fully into Computer Science. That shift strengthened my analytical thinking and pushed me toward solving complex technical problems using data, algorithms, and automation.
+I recently completed my Bachelor's in Computer Science and Technology from China Jiliang University and will begin my Master's in Artificial Intelligence and Technology at Xi'an Electronic Science and Technology University.
 
-I currently work as an **AI Agent Engineer** building production AI systems for e-commerce automation, while completing my graduation thesis in Computer Vision focused on traffic analysis and multi-object detection.
+I enjoy building software that combines machine learning with reliable backend engineering, turning research ideas into production-ready systems.
 
-### 💡 Current Focus
-- 🤖 AI Agents and workflow automation  
-- 👁️ Real-time Computer Vision systems  
-- 📊 Applied Machine Learning and decision systems  
-- 🧠 Reinforcement Learning (Andrew Ng Specialization)  
+Current interests include:
 
----
-
-## 💼 Experience
-
-### AI Agent Engineer  
-**Hangzhou Mokelili Technology Co., Ltd.**  
-*Jan 2026 – Present | Hangzhou, China*
-
-- Designing and building AI-powered agent systems for automated e-commerce workflows.
-- Developing modules for winning product selection, multi-modal generation (image, video, text), and automated publishing.
-- Implementing analytics pipelines to track ad performance and optimize ad spend decisions.
-- Delivering production-oriented AI automation tools for cross-border sellers.
+- AI Agents
+- Multi-Agent Systems
+- Computer Vision
+- Backend Engineering
+- Retrieval-Augmented Generation (RAG)
+- Workflow Automation
+- Machine Learning Systems
 
 ---
 
-### Python Engineer Intern (R&D)  
-**DRONEMAR Morocco**  
-*May 2025 – Sept 2025 | Casablanca, Morocco*
+# Experience
 
-- Contributed to a Drone Autonomous Flight monitoring platform as part of the R&D team.
-- Built backend components for real-time drone monitoring and flight data analysis.
-- Developed data processing pipelines for autonomous operations.
-- Collaborated remotely with engineers to deliver stable and scalable system components.
+### AI Agent Engineer
+**Hangzhou Mokelili Technology Co., Ltd.**
 
----
+Built production AI automation platforms for cross-border e-commerce.
 
-### Information Systems & Data Support Intern  
-**JAD CARROSSERIE**  
-*June 2024 – Sept 2024 | Casablanca, Morocco*
+Highlights:
 
-- Supported digital transformation initiatives inside an automotive repair company.
-- Structured and digitized operational data and internal documentation.
-- Automated internal workflows using Python.
-- Worked with MySQL databases for querying, reporting, and data organization.
-- Improved reporting processes and reduced manual administrative workload.
+- Full-stack AI agent development
+- Multi-modal content generation
+- API integrations
+- Web scraping
+- n8n automation workflows
+- Self-hosted deployments
+- End-to-end system architecture
 
 ---
 
-## 🔧 Tech Stack
+### Python Engineer (R&D Intern)
+**DRONEMAR Morocco**
 
-| Domain | Technologies |
-|--------|-------------|
-| 🤖 AI & ML | PyTorch, TensorFlow (basic), Scikit-learn, YOLOv12, OpenAI API, NumPy, Pandas |
-| 👁️ Computer Vision | OpenCV, Object Detection, UA-DETRAC, KITTI |
-| 💻 Backend | Python, Django, Flask, Node.js, REST APIs |
-| 🗄️ Databases | MySQL, PostgreSQL (basic), SQLite |
-| 📊 Data & Big Data | Apache Spark, Hadoop (academic), Data Processing Pipelines |
-| ☁️ Cloud & DevOps | Docker (basic), Linux CLI, Git, GitHub Actions |
-| 🔁 Automation | n8n, API Integrations |
+Worked on autonomous drone monitoring systems.
+
+- Backend development
+- Flight monitoring platform
+- Data processing pipelines
+- Real-time telemetry systems
 
 ---
 
-## 📌 Featured Projects
+### Information Systems & Data Support Intern
+**JAD CARROSSERIE**
 
-### 🚗 Traffic Analysis & Vehicle Detection System (Thesis – 2026)
-
-Real-time traffic monitoring pipeline using YOLOv12, OpenCV, and PyTorch.
-
-- Multi-object detection and tracking
-- Vehicle attribute classification (speed, direction, color)
-- Rule-violation detection adapted to Chinese road scenarios
-- Signal-processing optimization for real-time inference
-- Datasets: UA-DETRAC, KITTI
+- Workflow automation
+- Database management
+- Internal digital transformation
+- Reporting automation
 
 ---
 
-### ⚙️ Predictive Maintenance for Industrial Equipment
+# Tech Stack
 
-End-to-end ML pipeline using the UCI AI4I 2020 dataset.
+## Languages
 
-- Data preprocessing and SMOTE for class imbalance
-- XGBoost and Random Forest training with cross-validation
-- Hyperparameter tuning using GridSearchCV
-- Achieved 98%+ accuracy and strong F1-score performance
+Python • Java • JavaScript • TypeScript • HTML • CSS
+
+## AI / Machine Learning
+
+PyTorch
+
+TensorFlow
+
+Scikit-learn
+
+OpenCV
+
+YOLO
+
+Prompt Engineering
+
+Vector Databases
+
+Embedding Models
+
+RAG
+
+Multi-Agent Systems
+
+## Backend
+
+Django
+
+REST APIs
+
+Microservices
+
+n8n
+
+System Design
+
+SQL
+
+## Databases
+
+MySQL
+
+PostgreSQL
+
+SQLite
+
+## Infrastructure
+
+Docker
+
+Docker Compose
+
+Linux
+
+Nginx
+
+Git
+
+CI/CD
+
+AWS S3
+
+Apache Spark
+
+Hadoop
 
 ---
 
-### 🎙️ Voice Assistant with Mood Detection (IoT)
+# Featured Projects
 
-- Raspberry Pi-based assistant integrating computer vision and API communication
-- Emotion detection using facial analysis
-- Real-time interaction between embedded device and local server
+## 🚗 Traffic Analysis & Vehicle Detection
 
----
+Computer vision system for:
 
-### 🎓 Online Examination System
+- Vehicle detection
+- Multi-object tracking
+- Speed estimation
+- Vehicle attribute recognition
+- Traffic violation detection
+- Real-time inference optimization
 
-- Role-based secure exam platform
-- RESTful APIs with authentication
-- Automated grading and analytics dashboard
-- Built with Django, MySQL, Bootstrap
+**Tech**
 
----
-
-## 🏆 Awards & Scholarships
-
-- Excellent Degree-Seeking Student Type A First Class Scholarship  
-- Excellent Degree-Seeking Student Type A Second Class Scholarship  
-- Inclusive Scholarship for International Students (2023 & 2024)  
-
-All awarded by China Jiliang University based on academic excellence and performance.
+Python • PyTorch • YOLO • OpenCV
 
 ---
 
-## 📄 Resume
+## 🤖 AI Agent Platform
 
-[View My CV](https://docs.google.com/document/d/1HfsZsBoNdPbwIMHUFJhqTd7gLGBu8522HXxXOwx2YLs/edit?usp=sharing)
+Production AI automation platform for e-commerce.
+
+Features:
+
+- AI agents
+- Automated workflows
+- Multi-modal generation
+- API integrations
+- Web scraping
+- Self-hosted deployment
 
 ---
 
-## 🤝 Let’s Connect
+## ⚙️ Predictive Maintenance
 
-I am always open to discussing:
+Industrial equipment failure prediction using machine learning.
 
-- AI Agents & Autonomous Systems  
-- Computer Vision research  
-- Backend & Data Engineering  
-- Applied Machine Learning  
+Highlights:
+
+- XGBoost
+- Random Forest
+- SMOTE
+- Feature engineering
+- Cross-validation
+- 98%+ accuracy
+
+---
+
+## 🎙️ Voice Assistant with Mood Detection
+
+Embedded AI assistant capable of emotion recognition using computer vision.
+
+---
+
+## 📝 Online Examination System
+
+Role-based examination platform built with Django.
+
+Features:
+
+- Authentication
+- REST APIs
+- Automated grading
+- Analytics dashboard
+
+---
+
+# Certifications
+
+- Machine Learning Specialization (Andrew Ng)
+- Intermediate Machine Learning (Kaggle)
+- ALX Back-End Web Development
+- Responsive Web Design
+
+---
+
+# Awards
+
+🏆 Merit-Based Scholarship (4 consecutive years)
+
+China Jiliang University
+
+---
+
+# Languages
+
+🇲🇦 Arabic (Native)
+
+🇬🇧 English (C1)
+
+🇫🇷 French (C1)
+
+🇨🇳 Chinese (HSK 4)
+
+🇪🇸 Spanish (B1)
+
+---
+
+# Connect
+
+📧 charradiimad7@gmail.com
+
+💼 LinkedIn
+
+🌐 Portfolio (Coming Soon)
+
+---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=damitheswitch&style=flat-square" alt="Profile views" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damitheswitch&layout=compact&langs_count=8&theme=graywhite" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=damitheswitch&show_icons=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damitheswitch&layout=compact&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=damitheswitch&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=damitheswitch"/>
 </p>
